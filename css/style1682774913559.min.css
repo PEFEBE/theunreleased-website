@@ -20,7 +20,7 @@
     --colV7: #d65a1e;
     --colV8: #5f7e7b;
     --colV9: #005cfa;
-    --header-height: 72px;
+    --header-height: 85px;
     --window-height: 100vh
 }
 
@@ -719,7 +719,7 @@ header .menu {
 }
 
 header .menu .logo {
-    width: 180px;
+    width: 325px;
     margin: auto;
 }
 
