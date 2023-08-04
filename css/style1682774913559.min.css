@@ -2455,14 +2455,14 @@ textarea:focus {
 }
 
 #prez-u1.prez-version h2 {
-    color: #1b312f
+    color: #202A3C
 }
 
 #prez-u1.prez-version {
     background-image: url(../img/down-u1-artwork.jpg);
     background-size: 100%;
     background-position: calc(100% - 60px) calc(100% + 20px);
-    background-color: #476761
+    background-color: #0F1521
 }
 
 #prez-u1.prez-version .txt {
@@ -4028,7 +4028,7 @@ textarea:focus {
 }
 
 .bt.cybergreen .box {
-    background-color: #304d47
+    background-color: #384863
 }
 
 .computer .bt.cybergreen:hover .box {
