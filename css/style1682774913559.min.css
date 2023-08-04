@@ -2272,7 +2272,7 @@ textarea:focus {
     background-position: 100%
 }
 
-.web-version .bck.v8 {
+.web-version .bck.u1 {
     background-position: 87.5%
 }
 
@@ -2316,7 +2316,7 @@ textarea:focus {
     background-position: 100%
 }
 
-.icn-version .bck.v8 {
+.icn-version .bck.u1 {
     background-position: 87.5%
 }
 
@@ -2431,7 +2431,7 @@ textarea:focus {
     background-position: 100% 50%
 }
 
-.prez-version .v-title .bck.v8 {
+.prez-version .v-title .bck.u1 {
     background-position: 100% 75%
 }
 
@@ -4807,7 +4807,7 @@ body.page-out {
     background-position: 100% top
 }
 
-.page-file #box-mix.v8 #mix-icon .bck {
+.page-file #box-mix.u1 #mix-icon .bck {
     background-position: 87.5% top
 }
 
@@ -4843,7 +4843,7 @@ body.page-out {
     color: var(--colV9)
 }
 
-.page-file #box-mix.v8 #mix-title {
+.page-file #box-mix.u1 #mix-title {
     color: var(--colV8)
 }
 
