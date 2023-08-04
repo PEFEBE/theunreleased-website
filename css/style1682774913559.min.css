@@ -2454,18 +2454,18 @@ textarea:focus {
     margin-left: 0
 }
 
-#prez-v8.prez-version h2 {
+#prez-u1.prez-version h2 {
     color: #1b312f
 }
 
-#prez-v8.prez-version {
+#prez-u1.prez-version {
     background-image: url(../img/down-u1-artwork.jpg);
     background-size: 100%;
     background-position: calc(100% - 60px) calc(100% + 20px);
     background-color: #476761
 }
 
-#prez-v8.prez-version .txt {
+#prez-u1.prez-version .txt {
     color: #fff
 }
 
@@ -5196,7 +5196,7 @@ body.page-out {
         background-position: 30% 95%
     }
 
-    .prez-version#prez-v8 {
+    .prez-version#prez-u1 {
         background-size: 110%;
         background-position: -90px bottom
     }
@@ -5356,12 +5356,12 @@ body.page-out {
         background-position: 25% 95%
     }
 
-    .prez-version#prez-v8 {
+    .prez-version#prez-u1 {
         background-size: 120%;
         background-position: calc(100% + 20px) 100%
     }
 
-    .prez-version#prez-v8 .zone {
+    .prez-version#prez-u1 .zone {
         width: 40%
     }
 
@@ -5789,7 +5789,7 @@ body.page-out {
         background-position: calc(50% - 225px) bottom
     }
 
-    .prez-version#prez-v8 {
+    .prez-version#prez-u1 {
         background-size: 1300px;
         background-position: 20% calc(100% + 20px)
     }
@@ -5806,7 +5806,7 @@ body.page-out {
 
     .prez-version#prez-v6 .zone,
     .prez-version#prez-v7 .zone,
-    .prez-version#prez-v8 .zone,
+    .prez-version#prez-u1 .zone,
     .prez-version#prez-v9 .zone {
         width: 100%;
         padding-bottom: 550px
@@ -6437,12 +6437,12 @@ body.page-out {
         padding-bottom: 350px
     }
 
-    .prez-version#prez-v8 {
+    .prez-version#prez-u1 {
         background-size: 860px;
         background-position: 25% calc(100% + 20px)
     }
 
-    .prez-version#prez-v8 .zone {
+    .prez-version#prez-u1 .zone {
         padding-bottom: 350px
     }
 
@@ -6541,12 +6541,12 @@ body.page-out {
         padding-bottom: 400px
     }
 
-    .prez-version#prez-v8 {
+    .prez-version#prez-u1 {
         background-size: 650px;
         background-position: 20% calc(100% + 10px)
     }
 
-    .prez-version#prez-v8 .zone {
+    .prez-version#prez-u1 .zone {
         padding-bottom: 250px
     }
 
