@@ -2412,7 +2412,7 @@ textarea:focus {
 }
 
 .prez-version .v-title .bck {
-    width: 100%;
+    width: 466px;
     height: 0;
     padding-bottom: 31.8%;
     background: url(../img/down-v-titles-v9.png) no-repeat;
@@ -2432,7 +2432,7 @@ textarea:focus {
 }
 
 .prez-version .v-title .bck.u1 {
-    background-position: 100% 75%
+    background-position: 0% 0%
 }
 
 .prez-version .v-title .bck.v9 {
@@ -2460,8 +2460,8 @@ textarea:focus {
 
 #prez-u1.prez-version {
     background-image: url(../img/down-u1-artwork.jpg);
-    background-size: 100%;
-    background-position: calc(100% - 60px) calc(100% + 20px);
+    background-size: 80%;
+    background-position: calc(100% - 333px) calc(100% + -24px);
     background-color: #0F1521
 }
 
